@@ -1,5 +1,7 @@
 Digit Classification MNIST 
 
+Included are all the data files in the data folder, the python notebook file, and python file. 
+
 Working with the MNIST dataset to classify handwritten digits using the Softmax model.
 
 Dataset: 
