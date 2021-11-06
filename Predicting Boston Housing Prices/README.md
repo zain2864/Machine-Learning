@@ -1,5 +1,7 @@
 Predicting Boston Housing Prices Using Regression
 
+Included are both the python notebook file and python file. 
+
 Working with the Boston Housing dataset, in which the task is to predict median home prices in various areas of the Boston suburbs from a variety of features.
 In the task, the assumption was used that it is much worse to overestimate the price of a house than to underestimate it (e.g., to avoid making an offer that’s too high). 
 Technically, it is expressed as an asymmetric squared loss. 
