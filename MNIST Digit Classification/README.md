@@ -9,7 +9,9 @@ A vectorized representation of the images is used, converted to a 784-dimensiona
 between 0 (white) and 255 (black). The dataset is provided in the data folder. 
 
 • Training set of 20000 examples
+
 • Validation set of 10000 examples
+
 • Test set of 10000 examples (no labels are provided)
 
 Each set is divided equally among 10 classes. In addition to the normal training set of 20000
