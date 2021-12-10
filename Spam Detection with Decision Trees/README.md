@@ -1,4 +1,7 @@
-Task: 
+Spam Detection with Decision Trees
+
+Included are all the data files in the data folder, the python notebook file, and python file.
+
 Applying decision trees to the problem of determining whether or
 not an email is spam. Specifically using the AdaBoost algorithm to do so. 
 
@@ -10,3 +13,7 @@ length of the longest run of capital letters, and some character frequencies (e.
 The labels are binary, and the annotation is slightly noisy (there are two pairs of training
 examples with exactly the same features, but different labels).
 
+Some tasks include: Implementing the Decision Trees, 
+Implementing the AdaBoost algorithm, 
+Train decision trees on the spam dataset with various hyperparameter settings, and
+Train an ensemble on the spam dataset with various hyperparameter settings.
